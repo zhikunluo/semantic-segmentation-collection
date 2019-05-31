@@ -1,2 +1,2 @@
-# semantic-segmentation-collection
+# semantic-segmentation
 semantic-segmentation
